@@ -1,0 +1,7 @@
+prefix=@prefix@
+datarootdir=@datarootdir@
+pkgdatadir=${pc_sysrootdir}${datarootdir}/@PACKAGE@
+
+Name: Frog Protocols
+Description: Frog Wayland protocol files
+Version: @FROG_PROTOCOLS_VERSION@

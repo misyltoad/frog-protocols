@@ -1,0 +1,5 @@
+pkgdatadir=@abs_top_srcdir@
+
+Name: Frog Protocols
+Description: Frog Wayland protocol files (not installed)
+Version: @FROG_PROTOCOLS_VERSION@
