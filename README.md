@@ -12,7 +12,7 @@ We **need** to get protocols into end-users hands quicker! The main reason many 
 
 ## How do I submit a protocol?
 
-Basic groundrules:
+Basic ground rules:
 
  - Have a client
  - Have a server (compositor)
@@ -22,7 +22,7 @@ Basic groundrules:
 
 We want this to be usable by clients, in the real world, so we need to lay out how we are going to iterate with that in mind:
 
-Because this is much more iterative, the we won't replace protocols whenever we need to iterate, but simply add `method_v2` or `event_v2` and keep supporting both methods or events, and wrap old methods to new ones in the compositor.
+Because this is much more iterative, we won't replace protocols whenever we need to iterate, but simply add `method_v2` or `event_v2` and keep supporting both methods or events, and wrap old methods to new ones in the compositor.
 
 We will only add a whole new `protocol_v2` if something is totally broken beyond repair. We will never figure this out if we don't ship it and experiment! Not every client cares about every edge case or colour of bike shed.
 
