@@ -92,8 +92,7 @@
         it sets a "fifo_barrier" condition on the surface associated with
         the fifo object. The condition is cleared immediately after the
         following latching deadline for non-tearing presentation.
-        If the surface is not currently being presented by the compositor,
-        the condition needs to be cleared soon enough so that forward
+        The condition needs to be cleared soon enough so that forward
         progress for the application is guaranteed. The exact rate at which
         that happens is implementation defined.
 
