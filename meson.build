@@ -1,4 +1,5 @@
 project('frog-protocols',
+	'c',
 	version: '0.01',
 	meson_version: '>= 0.55.0',
 	license: 'MIT/Expat',
