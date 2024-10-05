@@ -1,4 +1,4 @@
-# Frog Protocols for Wayland 🐸
+# Frog Protocols for Wayland <img src="assets/logo.png" alt="frog" width="36" style="position: relative; top: 4px;"/>
 
 **Let's create Wayland Protocols but much more iterative.**
 
